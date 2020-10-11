@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "139537919394",
+    "firebase_url": "https://feel-peace.firebaseio.com",
+    "project_id": "feel-peace",
+    "storage_bucket": "feel-peace.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:139537919394:android:ee763d9b528642f10b56fb",
+        "android_client_info": {
+          "package_name": "com.example.feelpeace"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "139537919394-hctrbhk8ah92sjfiaatqp923au80hh9c.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.feelpeace",
+            "certificate_hash": "347472bc1f850e389c13e1a704d1864b758ea001"
+          }
+        },
+        {
+          "client_id": "139537919394-lec6dsob988ddobm1bn4lso0qso7l74p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCGnGvPGYRYIa-vvsx-ykMDjBPobZFjJdQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "139537919394-lec6dsob988ddobm1bn4lso0qso7l74p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
